@@ -10,12 +10,4 @@ absl-py
 packaging
 tqdm
 protobuf<=4.20.0
-torch
-tianshou>=0.4.10
-opencv-python-headless
-box2d-py
-dm-control>=1.0.5
-mujoco>=2.2.1,<2.3
-mujoco_py>=2.1.2.14
 pygame
-minigrid
